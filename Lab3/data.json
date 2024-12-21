@@ -1,0 +1,242 @@
+{
+  "Saint-Petersburg": {
+    "Bread": {
+      "January": {
+        "quantity": "1650",
+        "income": "165000"
+      },
+      "February": {
+        "quantity": "1571",
+        "income": "157100"
+      },
+      "March": {
+        "quantity": "9598",
+        "income": "959800"
+      },
+      "April": {
+        "quantity": "2999",
+        "income": "299900"
+      },
+      "May": {
+        "quantity": "2110",
+        "income": "211000"
+      },
+      "June": {
+        "quantity": "5796",
+        "income": "579600"
+      }
+    },
+    "Cocoa": {
+      "January": {
+        "quantity": "4284",
+        "income": "1071000"
+      },
+      "February": {
+        "quantity": "3392",
+        "income": "848000"
+      },
+      "March": {
+        "quantity": "1809",
+        "income": "452250"
+      },
+      "April": {
+        "quantity": "4472",
+        "income": "1118000"
+      },
+      "May": {
+        "quantity": "1390",
+        "income": "347500"
+      },
+      "June": {
+        "quantity": "4702",
+        "income": "1175500"
+      }
+    },
+    "Shampoo": {
+      "January": {
+        "quantity": "530",
+        "income": "265000"
+      },
+      "February": {
+        "quantity": "160",
+        "income": "80000"
+      },
+      "March": {
+        "quantity": "812",
+        "income": "406000"
+      },
+      "April": {
+        "quantity": "237",
+        "income": "118500"
+      },
+      "May": {
+        "quantity": "546",
+        "income": "273000"
+      },
+      "June": {
+        "quantity": "932",
+        "income": "466000"
+      }
+    }
+  },
+  "Moscow": {
+    "Bread": {
+      "January": {
+        "quantity": "16840",
+        "income": "1936600"
+      },
+      "February": {
+        "quantity": "13429",
+        "income": "1544335"
+      },
+      "March": {
+        "quantity": "10090",
+        "income": "1160350"
+      },
+      "April": {
+        "quantity": "10743",
+        "income": "1235445"
+      },
+      "May": {
+        "quantity": "5610",
+        "income": "645150"
+      },
+      "June": {
+        "quantity": "8929",
+        "income": "1026835"
+      }
+    },
+    "Cocoa": {
+      "January": {
+        "quantity": "6854",
+        "income": "2056200"
+      },
+      "February": {
+        "quantity": "6784",
+        "income": "2035200"
+      },
+      "March": {
+        "quantity": "2351",
+        "income": "705300"
+      },
+      "April": {
+        "quantity": "6708",
+        "income": "2012400"
+      },
+      "May": {
+        "quantity": "2780",
+        "income": "834000"
+      },
+      "June": {
+        "quantity": "7993",
+        "income": "2397900"
+      }
+    },
+    "Shampoo": {
+      "January": {
+        "quantity": "719",
+        "income": "431400"
+      },
+      "February": {
+        "quantity": "1107",
+        "income": "664200"
+      },
+      "March": {
+        "quantity": "751",
+        "income": "450600"
+      },
+      "April": {
+        "quantity": "404",
+        "income": "242400"
+      },
+      "May": {
+        "quantity": "1118",
+        "income": "670800"
+      },
+      "June": {
+        "quantity": "876",
+        "income": "525600"
+      }
+    }
+  },
+  "Novosibirsk": {
+    "Bread": {
+      "January": {
+        "quantity": "2810",
+        "income": "224800"
+      },
+      "February": {
+        "quantity": "661",
+        "income": "52880"
+      },
+      "March": {
+        "quantity": "1622",
+        "income": "129760"
+      },
+      "April": {
+        "quantity": "2851",
+        "income": "228080"
+      },
+      "May": {
+        "quantity": "4901",
+        "income": "392080"
+      },
+      "June": {
+        "quantity": "880",
+        "income": "70400"
+      }
+    },
+    "Cocoa": {
+        "January": {
+        "quantity": "1713",
+        "income": "342600"
+      },
+      "February": {
+        "quantity": "1017",
+        "income": "203400"
+      },
+      "March": {
+        "quantity": "723",
+        "income": "144600"
+      },
+      "April": {
+        "quantity": "2236",
+        "income": "447200"
+      },
+      "May": {
+        "quantity": "973",
+        "income": "194600"
+      },
+      "June": {
+        "quantity": "4231",
+        "income": "846200"
+      }
+    },
+    "Shampoo": {
+        "January": {
+        "quantity": "296",
+        "income": "118400"
+      },
+      "February": {
+        "quantity": "395",
+        "income": "158000"
+      },
+      "March": {
+        "quantity": "375",
+        "income": "150000"
+      },
+      "April": {
+        "quantity": "231",
+        "income": "92400"
+      },
+      "May": {
+        "quantity": "602",
+        "income": "240800"
+      },
+      "June": {
+        "quantity": "471",
+        "income": "188400"
+      }
+    }
+  }
+}
