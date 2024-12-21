@@ -2,7 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Загрузка данных
-df = pd.read_csv('lab5_data.csv', parse_dates=['Дата'])
+# df = pd.read_csv('lab5_data.csv', parse_dates=['Дата'])
+df = pd.read_csv('lab5_data_2.csv', parse_dates=['Дата'])
 
 # Проверка наличия пропущенных значений
 print("Пропуски в данных:")
@@ -44,17 +45,17 @@ plt.figure(figsize=(10, 6))
 
 # Гистограмма распределения сумм продаж
 # plt.subplot(211)
-# plt.hist(df['Сумма'], bins=20, edgecolor='black')
-# plt.title('Распределение суммы продаж')
-# plt.xlabel('Сумма')
-# plt.ylabel('Частота')
+plt.hist(df['Сумма'], bins=20, edgecolor='black')
+plt.title('Распределение суммы продаж')
+plt.xlabel('Сумма')
+plt.ylabel('Частота')
 
 # Боксплот для сравнения категорий
 # plt.subplot(212)
-plt.boxplot([df.query("Категория == @cat")['Сумма'] for cat in categories], labels=categories)
-plt.title('Боксплот для различных категорий')
-plt.xlabel('Категория')
-plt.ylabel('Сумма')
+# plt.boxplot([df.query("Категория == @cat")['Сумма'] for cat in categories], labels=categories)
+# plt.title('Боксплот для различных категорий')
+# plt.xlabel('Категория')
+# plt.ylabel('Сумма')
 
 plt.tight_layout()
 plt.show()
